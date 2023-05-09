@@ -21,7 +21,7 @@ mybatis:
   
 api.gateway.url: http://localhost:8000
 
-spring.jwt.secret: sellersSecurity
+spring.jwt.secret: MSA
 spring.jwt.access.header: Access-Token
 spring.jwt.refresh.header: Refresh-Token
 
